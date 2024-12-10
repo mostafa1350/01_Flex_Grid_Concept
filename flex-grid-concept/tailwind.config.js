@@ -4,8 +4,14 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  darkMode: 'class',
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'ChalpeyLight': "url('../public/images/ChalpeyLight.jpg')",
+        'ChalpeyDark': "url('../public/images/ChalpeyDark.jpg')",
+      },
+    },
   },
   plugins: [],
 }

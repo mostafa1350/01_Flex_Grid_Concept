@@ -20,9 +20,9 @@ const Flex_grid_concept = () => {
   return (
     <div className='h-screen bg-no-repeat m-0 p-0 bg-cover bg-center bg-ChalpeyLight dark:bg-ChalpeyDark'>
       
-      <div className='flex flex-col justify-center'>
-        <div className='flex justify-end items-center my-5 mx-10'>
-          <button onClick={changeDisplay} >
+      <div className='flex flex-col justify-center items-center'>
+        <div className='flex w-full justify-end items-center my-5'>
+          <button onClick={changeDisplay} className='mr-10'>
             {display === "dark" ?
               <img src={sunday} width={40} height={40} alt="Sun" /> :
               <img src={moonnight} width={40} height={40} alt="Moon" />

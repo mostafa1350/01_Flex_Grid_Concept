@@ -8,8 +8,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'ChalpeyLight': "url('../public/images/ChalpeyLight.jpg')",
-        'ChalpeyDark': "url('../public/images/ChalpeyDark.jpg')",
+        'ChalpeyLight': "url('../public/imgs/ChalpeyLight.jpg')",
+        'ChalpeyDark': "url('../public/imgs/ChalpeyDark.jpg')",
       },
     },
   },

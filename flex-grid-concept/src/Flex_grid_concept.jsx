@@ -38,7 +38,7 @@ const Flex_grid_concept = () => {
           </h1>
         </div>
         <div className='flex w-full flex-col space-y-2 my-10 sm:flex-row md:flex-row lg:flex-col xl:flex-col 2xl:flex-row'>
-            <div className='flex justify-center items-center w-full m-2  border-yellow-50 border-[2px] bg-blue-300/50 sm:bg-yellow-300/50 md:bg-red-500/70 lg:bg-yellow-200/55 lg:w-full h-[80px] '>Div1 changes</div>
+            <div className='flex justify-center items-center w-full m-2  border-yellow-50 border-[2px] bg-blue-300/50 sm:bg-yellow-300/50 before:sm:content-["I am SM size"] md:bg-red-500/70 lg:bg-yellow-200/55 lg:w-full h-[80px] '>Div1 changes</div>
             <div className='flex justify-center items-center w-full m-2  border-green-200 border-[2px] bg-blue-500/50 sm:bg-yellow-300/50 md:bg-red-500/70 lg:bg-yellow-400/55 lg:w-full h-[80px] '>Div2 changes</div>
             <div className='flex justify-center items-center w-full m-2  border-red-200 border-[2px] bg-blue-700/50 sm:bg-yellow-300/50 md:bg-red-500/70 lg:bg-yellow-500/55 lg:w-full h-[80px] '>Div3 changes</div>
             <div className='flex justify-center items-center w-full m-2  border-blue-300 border-[2px] bg-blue-900/50 sm:bg-yellow-300/50 md:bg-red-500/70 lg:bg-yellow-600/55 lg:w-full h-[80px] '>Div4 changes</div>

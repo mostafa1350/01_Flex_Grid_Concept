@@ -43,6 +43,7 @@ const Flex_grid_concept = () => {
             <div className='flex justify-center items-center w-full m-2  border-red-200 border-[2px] bg-blue-700/50 sm:bg-yellow-300/50   after:content-["I_Am_Div3_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-500/55 lg:w-full h-[80px] '></div>
             <div className='flex justify-center items-center w-full m-2  border-blue-300 border-[2px] bg-blue-900/50 sm:bg-yellow-300/50  after:content-["I_Am_Div4_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-600/55 lg:w-full h-[80px] '></div>
 
+
         </div>
         
       </div>

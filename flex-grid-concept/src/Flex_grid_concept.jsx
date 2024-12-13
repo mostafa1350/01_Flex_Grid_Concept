@@ -43,17 +43,6 @@ const Flex_grid_concept = () => {
             <div className='flex justify-center items-center w-full m-2  border-red-200 border-[2px] bg-blue-700/50 sm:bg-yellow-300/50   text-green-200 after:content-["I_Am_Div3_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-500/55 lg:w-full h-[80px] '></div>
             <div className='flex justify-center items-center w-full m-2  border-blue-300 border-[2px] bg-blue-900/50 sm:bg-yellow-300/50  text-green-50 after:content-["I_Am_Div4_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-600/55 lg:w-full h-[80px] '></div>
         </div>
-
-        <h1 className='  bg-blue-600/85 rounded-lg border-yellow-900 dark:border-green-200 border-[2px] text-blue-100 dark:bg-yellow-50/50 text-[30px] px-10 py-6'>
-             we want to realize some conception about flex-1 & flex-auto and ...
-        </h1>
-
-        <div className='flex w-full flex-col space-y-2 my-10 sm:flex-row md:flex-row lg:flex-col xl:flex-col 2xl:flex-row'>
-            <div className='flex justify-center items-center w-full m-2  border-yellow-50 border-[2px] bg-blue-300/50 sm:bg-yellow-300/50 text-black after:content-["I_Am_Div1_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-200/55 lg:w-full h-[80px] '></div>
-            <div className='flex justify-center items-center w-full m-2  border-green-200 border-[2px] bg-blue-500/50 sm:bg-yellow-300/50 text-green-900 after:content-["I_Am_Div2_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-400/55 lg:w-full h-[80px] '></div>
-            <div className='flex justify-center items-center w-full m-2  border-red-200 border-[2px] bg-blue-700/50 sm:bg-yellow-300/50   text-green-200 after:content-["I_Am_Div3_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-500/55 lg:w-full h-[80px] '></div>
-            <div className='flex justify-center items-center w-full m-2  border-blue-300 border-[2px] bg-blue-900/50 sm:bg-yellow-300/50  text-green-50 after:content-["I_Am_Div4_for_Test"] sm:after:content-["I_am_SM_size"] md:after:content-["I_am_MD_size"] lg:after:content-["I_am_lg_size"] xl:after:content-["I_am_XL_size"] md:bg-red-500/70 lg:bg-yellow-600/55 lg:w-full h-[80px] '></div>
-        </div>
         
       </div>
     </div>

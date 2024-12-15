@@ -1,8 +1,12 @@
 import React from 'react'
+import GridConcept from '../public/imgs/Grid_Concept.jpg'
 
 const Gridview = () => {
   return (
     <div className='grid bg-red-100 '>
+            <div className='flex justify-center items-center'>
+              <img src={GridConcept} width={720} height={720} alt="Grid Concept" />
+            </div>
             <div>
                 <h1>
                 col-span-* utilities to make an element span n columns.
